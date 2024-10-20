@@ -1,4 +1,4 @@
-#!/home/gonzalopc/git/app-mysql/App/venv/bin/python3
+#!/home/gonzalopc/git/APP-MYSQL/App/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
